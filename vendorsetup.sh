@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-add_lunch_combo aosp_sgp611-userdebug
+add_lunch_combo cm_scorpion-windy--userdebug
