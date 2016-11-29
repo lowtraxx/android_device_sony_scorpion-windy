@@ -13,5 +13,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/aosp_sgp611.mk
+	$(LOCAL_DIR)/cm.mk
 

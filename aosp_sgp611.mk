@@ -35,8 +35,8 @@ PRODUCT_PACKAGES += \
     power.scorpion_windy
 
 # NFC config
-PRODUCT_PACKAGES += \
-    nfc_nci.scorpion_windy
+# PRODUCT_PACKAGES += \
+#     nfc_nci.scorpion_windy
 
 # Inherit from those products. Most specific first.
 $(call inherit-product, device/sony/scorpion_windy/aosp_sgp6xx_common.mk)
