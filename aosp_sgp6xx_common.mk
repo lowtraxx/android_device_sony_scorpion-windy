@@ -81,4 +81,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 $(call inherit-product, device/sony/shinano/platform.mk)
 $(call inherit-product, vendor/sony/shinano-scorpion/scorpion-vendor.mk)
+$(call inherit-product, vendor/sony/msm8974-common/msm8974-common-vendor.mk)
+$(call inherit-product, vendor/sony/shinano-scorpion-common/shinano-scorpion-common-vendor-blobs.mk)
 $(call inherit-product, frameworks/native/build/tablet-7in-xhdpi-2048-dalvik-heap.mk)
