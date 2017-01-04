@@ -20,5 +20,5 @@ PRODUCT_BUILD_PROP_OVERRIDES += BUILD_FINGERPRINT=Sony/SGP611/SGP611:6.0.1/23.5.
 PRODUCT_BUILD_PROP_OVERRIDES += PRIVATE_BUILD_DESC="SGP611-user 6.0.1 23.5.A.1.291 3706784398 release-keys"
 
 # Override Product Name for crDroid
-PRODUCT_NAME := cm_scorpion_windy
+PRODUCT_NAME := lineage_scorpion_windy
 PRODUCT_MODEL := Xperia Z3 Tablet Compact
