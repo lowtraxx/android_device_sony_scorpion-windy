@@ -18,3 +18,4 @@ include device/sony/shinano/PlatformConfig2.mk
 PRODUCT_VENDOR_KERNEL_HEADERS += device/sony/scorpion_windy/kernel-headers
 
 TARGET_TAP_TO_WAKE_NODE := "/sys/devices/virtual/input/clearpad/wakeup_gesture"
+BOARD_HARDWARE_CLASS += device/sony/scorpion_windy/cmhw
